@@ -22,6 +22,7 @@ namespace Dominios
         public bool BorrarArchivos()
         {
             return archivos.BorrarArchivo();
+
         }
 
         public DataTable ListarDocs()
